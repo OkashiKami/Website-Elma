@@ -6,3 +6,7 @@ This is a template website for example
 1st: clone the reop by clicking here [Download Elma Example](https://github.com/OkashiKami/Website-Elma/archive/refs/heads/main.zip)
 2ed: Extract the files to  your local computer 
 3: Open the *index.html* file in your preferred browser
+
+# Screenshot 
+
+ 1. [Landing Page](https://github.com/OkashiKami/Website-Elma/blob/main/result.pdf)
